@@ -1,0 +1,20 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "dev.lambdaurora.lambdynlights.gui.SettingsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_440": true,
+    "net.minecraft.class_5375": true,
+    "net.minecraft.class_443": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "net.minecraft.class_458": true,
+    "net.minecraft.class_6599": true,
+    "dev.isxander.yacl3.gui.YACLScreen": true
+  },
+  "hideBackground": {}
+}
