@@ -637,6 +637,18 @@ file = "mods/MickeyJoesFlowers 26.1.zip"
 hash = "570299dc1b750705ba2d7a59d040640412f5aba1c1c968a97a5033aa0a69a879"
 
 [[files]]
+file = "mods/MossyLib-1.1.0+1.21.11+fabric.jar"
+hash = "052ec14038d3df3b7cc16b59b34f249bd0a16e730414716679dcee3572ac6c12"
+
+[[files]]
+file = "mods/ParticleEffects-1.3.0+1.21.11+fabric.jar"
+hash = "0fe1c36396df73e782de4ef9fba1fceb07817904b57793bf2f8512f13fe40aa3"
+
+[[files]]
+file = "mods/SubtleEffects-fabric-1.21.11-1.14.0.jar"
+hash = "8ace92973d27231f939b1414f672e2aea64a6907ae46387d04e118deb0ae25d7"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6f6b6a69c127844a383c24e149d83b793e35c9cb8a965b655e54fc2be8df0b72"
 metafile = true
@@ -697,9 +709,8 @@ hash = "dd9e1e771266bc539ff81a5fc1f46ba282f161bd63deb9e254d6f363e3001ec7"
 metafile = true
 
 [[files]]
-file = "mods/cool-rain.pw.toml"
-hash = "2cb211fba155999464514808849f490cbc5b044ce382dd073944737b770d1fd8"
-metafile = true
+file = "mods/coolrain-1.4.0-1.21.11.jar"
+hash = "91d981e10cef841976eb523cc64b90212d13a801747fc3524c0ca5be32deb8b3"
 
 [[files]]
 file = "mods/cosy-critters.pw.toml"
@@ -746,11 +757,6 @@ hash = "acc18c66e780b5cc9b037792a3db7ba522608cf73b934c8eba38d48ac32437e8"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-f3.pw.toml"
-hash = "be881f47f822f0b1a10ed7d17c4142d0c3aadfa4d198641fc36d401baeb28df8"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "347c16b6c813cb356e1eb6d06d74c59a135636e79536c37da1bf4ad615778b79"
 metafile = true
@@ -761,9 +767,8 @@ hash = "e293f3518af44d2c14abd0eab15a31210b5cf0b59043ece85e9a728516bdb4ec"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "e6eb29ee53b825ecf4623b75a7e2dd1ba353710eee9af970852e273a98e901f7"
-metafile = true
+file = "mods/entityculling-fabric-1.10.0-mc1.21.11.jar"
+hash = "2d5052b9e548fe73a8be967b144440ff935f244c9c657d49a6829449282e9a47"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -791,9 +796,8 @@ hash = "638ada423b2201d0157dcb7f039f49728b193f9e573d30c9970c2a0f16fb1380"
 metafile = true
 
 [[files]]
-file = "mods/footprintparticle.pw.toml"
-hash = "01b98c27a3ea94c232bcb78249b8d2e08d4b542e5e4143012de0403835c83c98"
-metafile = true
+file = "mods/footprintparticle-0.5.4-mc1.21.11.jar"
+hash = "6333f8a36ffaaf528966b9e52c22349acde2e4df24cb208232993883603ec336"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -891,11 +895,6 @@ hash = "65b0757e35b23994e140ee985a5a5b0bb36711e1ad879719fa15c30790983d54"
 metafile = true
 
 [[files]]
-file = "mods/mossylib.pw.toml"
-hash = "69dc2b3f34cee38b8a7e468086232fa59efafdd2257e5c5a26922ec72c30e2f4"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c68301b49d033b58dd3a9ccfdd781bda6fac0609ea6a426b2adb57efacc860ac"
 metafile = true
@@ -918,11 +917,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4cf1c2c6979272e6f541f065b6a6db13ef795e80c9774b2f30e18dd29e59733b"
-metafile = true
-
-[[files]]
-file = "mods/particle-effects.pw.toml"
-hash = "6b96e06e9d5c5c06570e25d56561c5c847fbf618514404dc07c6f1daeb3ab299"
 metafile = true
 
 [[files]]
@@ -1001,11 +995,6 @@ hash = "20e21efc22a946ad462be1555f739a1d3a73a5ecab9a00a443f9161c8d4c8413"
 metafile = true
 
 [[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "f12fa9f2a9b6c8388c7b22fb0e69638eda3e8250c0fc136e627286eafb96072f"
-metafile = true
-
-[[files]]
 file = "mods/swinging-lanterns.pw.toml"
 hash = "cf2a8d08257e54ccd28a76aa794ada39bb68d09b79247292b78259bccf4121b0"
 metafile = true
@@ -1013,11 +1002,6 @@ metafile = true
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
 hash = "964ad007b3df23bb23c90e2f5d2a25aa30f403808a0a853d9021f232caff106f"
-metafile = true
-
-[[files]]
-file = "mods/the-immersive-music-mod.pw.toml"
-hash = "05093a5027876d7db9315ca0dc8e2921cb6cdc2aa50d7e0339c29b7ae27ccbb4"
 metafile = true
 
 [[files]]
@@ -1041,9 +1025,8 @@ hash = "f22d477e1c9a77d0fb94256ee51dbc02b4d404a72d03f0e5d1e801fc2fa7d3fe"
 metafile = true
 
 [[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "22df141357dd609034b918d08910e060878b80c7b4150813ff3d5f88bfea4177"
-metafile = true
+file = "mods/waveycapes-fabric-1.9.0-mc1.21.11.jar"
+hash = "ae5881607410888d2a5928657f370cb058a427139fbe025b1ee1e45b8884638e"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
