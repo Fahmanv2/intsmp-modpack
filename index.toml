@@ -105,6 +105,22 @@ file = "config/cubes-without-borders.json"
 hash = "99b15b0a069e6d9f3e5a6267e128c1bec50e8205dcf6baa7739dea79ea999ff2"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "81d7a59e19b61776973ce2729d4d09d77c1005b262f973f96354f4f36254a630"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "8c0944badd77989a8c6e1b19e0f80ee14ea12060886ca8e2544d450772c87a08"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "688ba0766fb41d97bc737b12523d891bf0b01eee7da58623f8b1e3622caf0c71"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "010199264dda475c318c5fce1a88653ecd81db55c33a648e11849a77b4fc5e4b"
+
+[[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
 
@@ -636,6 +652,11 @@ hash = "5788bf4ce826bb09e7bd3da8c8801e9b9a251c433fe6e3830883d0e9c562b1f0"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "819919581683f0cfbc8399fc5d8fdffae5551510013cfa6e9a51d6b4a44b2a33"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "bddc30dc47647521d1fe38d2ac323249fd44946404fdb6d2aae9228c91e6b1f7"
 metafile = true
@@ -699,6 +720,10 @@ metafile = true
 file = "mods/debugify.pw.toml"
 hash = "93d1983d9bfa793062896c82a9eb32202681903b4a933abf482d1cc578b12b8b"
 metafile = true
+
+[[files]]
+file = "mods/defaultoptions-fabric-1.21.11-21.11.1.jar"
+hash = "de6a0df95b1d270750f3155af5bfc1a612c057a4b9420f485e996be827d7f1c3"
 
 [[files]]
 file = "mods/dense-flowers-cf-reupload.pw.toml"
