@@ -1,0 +1,13 @@
+name = "Drip Sounds"
+filename = "Drip Sounds-0.5.2+1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b7171c4300a68aa079e6c163ee36aa8d606719f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7251815
+project-id = 448311

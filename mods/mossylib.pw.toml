@@ -1,0 +1,13 @@
+name = "MossyLib"
+filename = "MossyLib-1.1.0+1.21.11+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "820fa61ebebc83d78ff954dbc5c29e1c3aa3b01f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7438829
+project-id = 1399257

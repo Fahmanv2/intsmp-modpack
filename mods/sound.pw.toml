@@ -1,0 +1,13 @@
+name = "Sound​s"
+filename = "sounds-2.4.23+edge+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92d93ee8f82e58646ea8db925e010bdef2a2556c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7650020
+project-id = 925889

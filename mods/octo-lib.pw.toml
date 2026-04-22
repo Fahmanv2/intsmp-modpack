@@ -1,0 +1,13 @@
+name = "ShatterLib | OctoLib"
+filename = "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c591be8990702aca214ac19c922422fd6725b81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7744684
+project-id = 916747

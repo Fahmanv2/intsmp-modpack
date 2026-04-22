@@ -1,0 +1,13 @@
+name = "MinecraftCapes Mod"
+filename = "MinecraftCapes Fabric 1.21.11-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b994c7cb4a0b5137250cb5dc279bab98f430837"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7813748
+project-id = 359836

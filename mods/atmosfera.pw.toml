@@ -1,0 +1,13 @@
+name = "Atmosfera"
+filename = "atmosfera-2.5.5+mc1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5f2204b216f34d8db7d4dffb28e6a293e2f918c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7535097
+project-id = 338456

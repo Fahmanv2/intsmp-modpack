@@ -1,0 +1,13 @@
+name = "Particle Rain"
+filename = "particlerain-4.0.0-beta.9+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c72dfd6bfe5b302b4dd6dab0d6b89f249f44115"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7843030
+project-id = 421897

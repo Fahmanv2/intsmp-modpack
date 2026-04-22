@@ -1,0 +1,13 @@
+name = "Immersive Storms"
+filename = "immersive-storms-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8373ed72fe1f4f563df9ba04c3eb096ae61f466"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7822312
+project-id = 1288370

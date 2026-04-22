@@ -1,0 +1,13 @@
+name = "Tightfire"
+filename = "tightfire-1.21.11-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "211b822115b7f7761e35b6f866ff71f1703113cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7382061
+project-id = 1150722

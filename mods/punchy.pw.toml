@@ -1,0 +1,13 @@
+name = "Punchy! - First person animations"
+filename = "punchy-2.4.4-HOTFIX-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ed7f92dccf94e187da59349222b90d9a0500a35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7853944
+project-id = 1374153

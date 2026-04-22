@@ -1,0 +1,13 @@
+name = "Dense Flowers - CF Reupload"
+filename = "dense-flowers-0.3.0+mc1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddb9ca15e59620e3ada5efea668c65c6c4b961aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7878736
+project-id = 1505186

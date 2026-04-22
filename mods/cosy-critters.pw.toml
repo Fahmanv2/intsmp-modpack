@@ -1,0 +1,13 @@
+name = "Cosy Critters & Creepy Crawlies"
+filename = "cosycritters-0.3.1+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa43a36ebf08e4dfd6c7a2abb951e4e5a1110237"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7812455
+project-id = 1182393
